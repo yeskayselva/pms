@@ -1,0 +1,12 @@
+<?php
+
+$config['protocol'] = 'smtp';
+$config['smtp_host'] = 'smtp.mandrillapp.com';
+$config['smtp_user'] = 'bhargava@sansrack.com';
+$config['smtp_pass'] = 'QS5tHGm6RHepb9krDfmF2A';
+$config['smtp_port'] = 587;
+$config['crlf'] = "\r\n";
+$config['newline'] = "\r\n";
+$config['mailtype']="html";
+
+?>
